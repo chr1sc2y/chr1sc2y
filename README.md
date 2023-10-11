@@ -12,6 +12,6 @@ This is Chris, Software Engineer at [Connexion Ltd](https://connexionltd.com/), 
 
 ### Cheers 🍻
 
-![](https://img.shields.io/github/stars/chrisovidence?affiliations=OWNER%2CCOLLABORATOR) ![](https://img.shields.io/github/followers/chrisovidence)
+![](https://img.shields.io/github/stars/chr1sc2y?affiliations=OWNER%2CCOLLABORATOR) ![](https://img.shields.io/github/followers/chr1sc2y)
 
-![](https://github-readme-stats.vercel.app/api?username=chrisovidence&theme=blueberry)
+![](https://github-readme-stats.vercel.app/api?username=chr1sc2y&theme=blueberry)
