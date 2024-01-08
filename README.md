@@ -6,9 +6,9 @@ This is Chris, Software Engineer at [Connexion Ltd](https://connexionltd.com/), 
 
 ### Contact me 📧
 
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/zhengyuchenchris/).
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/chr1sc2y/).
 - 📫 Reach me at: zhengyuchen.chris@gmail.com.
-- 🌐 Visit my portfolio website [here](http://zintrulcre.github.io/about/).
+- 🌐 Visit my portfolio website [here](http://prov1dence.top/about/).
 
 ### Cheers 🍻
 
