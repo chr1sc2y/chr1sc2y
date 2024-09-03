@@ -2,13 +2,13 @@
 
 🇦🇺🇨🇳
 
-This is Chris, Software Engineer at [Connexion Ltd](https://connexionltd.com/), previously at Amazon and Tencent.
+This is Chris, Software Engineer at [Connexion Ltd](https://connexionltd.com/), previously at **Amazon** and **Tencent**.
 
 ### Contact me 📧
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/chr1sc2y/).
 - 📫 Reach me at: zhengyuchen.chris@gmail.com.
-- 🌐 Visit my portfolio website [here](http://prov1dence.top/about/).
+- 🌐 Visit my portfolio website at [http://prov1dence.top](http://prov1dence.top).
 
 ### Cheers 🍻
 
