@@ -7,9 +7,9 @@ This is Chris, Software Engineer at a start-up, previously at **Amazon** and **T
 ### Contact me 📧
 
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/chr1sc2y/)
-- 📫 Email: zhengyuchen.chris@gmail.com  
+- 📫 Email at zhengyuchen.chris@gmail.com  
 - 🌐 Check out my [portfolio website](https://prov1dence.top)  
-- 📷 Visit my [website as a Photographer](https://photography.prov1dence.top/)
+- 📷 Visit my [photography website](https://photography.prov1dence.top/)
 
 ### Cheers 🍻
 
