@@ -2,7 +2,7 @@
 
 🇦🇺🇨🇳
 
-This is Chris, Software Engineer at a start-up, previously at **Amazon** and **Tencent**.
+This is Zhengyu Chen, Software Engineer at **ByteDance**, previously at **Amazon** and **Tencent**.
 
 ### Contact me 📧
 
