@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-🇦🇺🇨🇳
-
-This is Zhengyu Chen, Software Engineer at **ByteDance**, previously at **Amazon** and **Tencent**.
+This is Zhengyu, Software Engineer at **ByteDance**, previously at **Amazon**, **Tencent**, and a Startup.
 
 ### Contact me 📧
 
