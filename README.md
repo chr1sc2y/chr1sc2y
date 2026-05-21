@@ -12,7 +12,3 @@ I'm Zhengyu — Software Engineer @ **ByteDance**, previously **Amazon**, **Tenc
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/chr1sc2y/)
 - 📫 zhengyuchen.chris@gmail.com
-
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=chr1sc2y&theme=blueberry)
