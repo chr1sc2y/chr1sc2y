@@ -4,9 +4,9 @@ I'm Zhengyu — Software Engineer @ **ByteDance**, previously **Amazon**, **Tenc
 
 ### 🌐 My Corners of the Web
 
-- 📝 **Personal Blog** — [prov1dence.top](https://prov1dence.top/)
-- 📷 **Photography** — [photography.prov1dence.top](https://photography.prov1dence.top/)
-- 🤖 **AI Daily** — [ai.prov1dence.top](https://ai.prov1dence.top/)
+- 📝 **[Personal Blog](https://prov1dence.top/archives)**
+- 🤖 **[Firsthand AI Digest](https://ai.prov1dence.top/)**
+- 📷 **[Photography Website](https://photography.prov1dence.top/)**
 
 ### 📧 Get in Touch
 
