@@ -1,6 +1,4 @@
-### 👋 Hi there
-
-I'm Zhengyu — Software Engineer @ **ByteDance**, previously **Amazon**, **Tencent**, and a startup.
+### 👋 Hi there, I'm Zhengyu Chen
 
 ### 🌐 My Corners of the Web
 
