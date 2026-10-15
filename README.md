@@ -1,10 +1,11 @@
-### 👋 Hi there, I'm Zhengyu Chen
+### 👋 Hi there
+
+- I'm Chris, a software engineer, photographer, and body builder.
 
 ### 🌐 My Corners of the Web
 
-- 📝 [Personal Blog](https://prov1dence.top)
-- 🤖 [Firsthand AI Digest](https://ai.prov1dence.top/)
-- 📷 [Photography Website](https://photography.prov1dence.top/)
+- 📝 [Blog](https://prov1dence.top)
+- 📷 [Photo Portfolio](https://photography.prov1dence.top/)
 
 ### 📄 Resume
 
